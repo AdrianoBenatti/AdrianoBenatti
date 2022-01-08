@@ -11,11 +11,12 @@ Meu nome é Adriano Benatti, sou dev, atualmente com foco em ReactJs ;)
   <img align="center" alt="Adriano-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Adriano-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Adriano-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Adriano-pic" height="150" style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/C4E03AQGAKeI7gIQOrA/profile-displayphoto-shrink_200_200/0/1601560424477?e=1646870400&v=beta&t=9jgwKgUSjvsN7A1cNWrYg-m-3ZXtDWXVdU4PYeC7TxE">
+  <img align="right" alt="Adriano-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/39543260/148648730-e32c133d-6406-4687-8b9c-9503108b6d0d.mp4">
 </div>
   
   ##
  
+
 <div> 
   <a href = "mailto:thisdedd@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/adrianobenattijr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
