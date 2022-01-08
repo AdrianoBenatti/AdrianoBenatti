@@ -11,10 +11,8 @@ Meu nome é Adriano Benatti, sou dev, atualmente com foco em ReactJs ;)
   <img align="center" alt="Adriano-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Adriano-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Adriano-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <video width="320" height="240" controls>
-    <source src="https://user-images.githubusercontent.com/39543260/148648749-e7291def-b27f-4cb3-8472-a2bfaa6dd714.mp4" type="video/mp4">
-    <source src="movie.ogg" type="video/ogg">
-  </video>
+  <img align="center" alt="Adriano-Image" height="80" width="100" src="  https://user-images.githubusercontent.com/39543260/148648749-e7291def-b27f-4cb3-8472-a2bfaa6dd714.mp4">
+
 </div>
   
   ##
