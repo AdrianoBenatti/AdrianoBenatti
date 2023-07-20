@@ -1,4 +1,4 @@
-## Hellor World!!!
+## Hello World!!!
 Meu nome é Adriano Benatti, sou dev, atualmente com foco em ReactJs ;)
 <div align="center">
   <a href="https://github.com/AdrianoBenatti">
